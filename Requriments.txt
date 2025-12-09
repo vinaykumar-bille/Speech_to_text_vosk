@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+vosk
+sounddevice
+numpy
+requests
+pydantic
+python-multipart
+pip install -r requirements.txt
